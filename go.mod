@@ -1,4 +1,4 @@
-module github.com/chinaecheremjoy0/practice-go.git
+module github.com/chinaecheremjoy0/practice-go
 
 go 1.25.5
 
